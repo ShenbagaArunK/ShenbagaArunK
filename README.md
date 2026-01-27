@@ -1,10 +1,10 @@
-<h1 align="left">👋 I'm Arun...</h1>
-
-###
-
 <br clear="both">
 
 <img align="right" height="146" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVrYzB2ZzNodWdlZ3ZuZ28yaW02dGlnYWZwMTA2ZWFwdGhtM3IyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fuNETxdbEuXK1MzN45/giphy.gif"  />
+
+###
+
+<h1 align="left">👋 I'm Arun...</h1>
 
 ###
 
