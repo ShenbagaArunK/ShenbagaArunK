@@ -6,7 +6,6 @@
 <p align="left"><i> --- From Pixels to Dashboards --- </i></p>
 
 <br clear="left">
-<br>
 
 ### 👩‍💻 About Me
 
