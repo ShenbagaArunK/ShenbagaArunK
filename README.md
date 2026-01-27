@@ -1,23 +1,4 @@
-<div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVrYzB2ZzNodWdlZ3ZuZ28yaW02dGlnYWZwMTA2ZWFwdGhtM3IyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fuNETxdbEuXK1MzN45/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/shenbaga-arun/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="linkedin logo"  />
-  </a>
-  <a href="shenbagaarun425@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShenbagaArunK.ShenbagaArunK&"  />
-</div>
+<img align="right" height="146" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVrYzB2ZzNodWdlZ3ZuZ28yaW02dGlnYWZwMTA2ZWFwdGhtM3IyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fuNETxdbEuXK1MzN45/giphy.gif"  />
 
 ###
 
@@ -64,5 +45,22 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShenbagaArunK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/shenbaga-arun/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="23" alt="linkedin logo"  />
+  </a>
+  <a href="shenbagaarun425@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="38" height="23" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ShenbagaArunK.ShenbagaArunK&"  />
 
 ###
