@@ -9,12 +9,12 @@
 
 ### 👩‍💻 About Me
 
-I’m a former **Texturing Artist** who traded pixels for performance. I’ve jumped from the world of digital aesthetics to building high-frequency dashboards for investment banks. Currently mastering the art of solving big-data puzzles and training the AI models of tomorrow.
-One of the things I take from my experience is - Everything comes down to the storytelling. Whether I'm conveying insights to a CEO on the 25th floor or optimizing logic for AI chips sunk in a subsea data center, the goal is clarity and impact.
+I’m a former **Texturing Artist** who brought life into characters and environments through textures. I’ve jumped from the world of digital aesthetics to building models and analyzing data. Currently mastering the art of solving big-data puzzles and training the AI models.
+One of the things I take from my experience as an artist is - Everything comes down to the storytelling. Whether I'm crunching the data to convey insights to a CEO on the 25th floor or optimizing logic for AI models, the goal is clarity and impact.
 
 <br>
 
-> "A restless mind is better than a stagnant one, right?"
+> "There is a **Story** behind every data that exist in this universe !"
 
 ---
 
