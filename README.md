@@ -66,5 +66,3 @@ One of the things I take from my experience as an artist is - Everything comes d
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="gmail logo"  />
   </a>
 </div>
-
-## <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShenbagaArunK.ShenbagaArunK&" />
