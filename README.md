@@ -3,7 +3,7 @@
 <img align="right" height="146" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVrYzB2ZzNodWdlZ3ZuZ28yaW02dGlnYWZwMTA2ZWFwdGhtM3IyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fuNETxdbEuXK1MzN45/giphy.gif" />
 
 <h1 align="left">👋 I'm Arun...</h1>
-<p align="left"><i> --- From Brush to the Code behind it --- </i></p>
+<p align="left"><i> --- From the Textures to the Code behind it --- </i></p>
 
 <br clear="left">
 
@@ -14,7 +14,7 @@ One of the things I take from my experience as an artist is - Everything comes d
 
 <br>
 
-> "There is a **Story** behind every data that exists in this universe!! -- Stardust"
+> "There is a **Story** behind every data that exists in this universe!!"
 
 ---
 
