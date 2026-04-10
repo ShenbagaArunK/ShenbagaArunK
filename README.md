@@ -1,6 +1,6 @@
 <!-- Header GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="coding gif"/>
 </p>
 
 <h1 align="center">Hi, I'm Arun 👋</h1>
@@ -95,18 +95,9 @@ Multi-table relational database queried to extract insights — employee hierarc
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShenbagaArunK&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="Arun's GitHub stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShenbagaArunK&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShenbagaArunK&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
 </p>
 
 ---
-
-<!-- Footer GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="data flow gif"/>
-</p>
