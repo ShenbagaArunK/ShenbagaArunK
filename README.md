@@ -87,8 +87,9 @@ Multi-table relational database queried to extract insights — employee hierarc
 | Languages | Python · SQL |
 | ML / AI | scikit-learn · LangChain · API · VADER |
 | Data | PostgreSQL · Pandas · NumPy · SQLAlchemy |
+| Cloud | AWS (S3,Lambda,Athena) |
 | Deployment | Streamlit |
-| BI | Power BI · DAX · Adv_Excel |
+| BI | Power BI · DAX · AWS-Quicksight · Adv_Excel |
 
 ---
 
